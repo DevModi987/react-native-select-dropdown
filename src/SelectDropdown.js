@@ -366,6 +366,7 @@ const SelectDropdown = (
                 renderItem={renderFlatlistItem}
                 getItemLayout={getItemLayout}
                 onLayout={onLayout}
+                showsVerticalScrollIndicator={false}
               />
             )}
           </View>
