@@ -19,7 +19,7 @@ import {
 import _ from "lodash";
 const { width, height } = Dimensions.get("window");
 
-const DROPDOWN_MAX_HEIGHT = height * 0.4;
+const DROPDOWN_MAX_HEIGHT = height * 0.7;
 
 const SelectDropdown = (
   {
